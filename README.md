@@ -1,41 +1,27 @@
-# MathMaster
+# 🧠📚 MathMaster – Interactive Math Learning Web App
+
 
 MathMaster is an interactive web application designed to help users improve their mathematical skills through engaging quizzes and challenges. Built with modern web technologies, it offers a dynamic and responsive user experience.
 
 ## 🌍 Live Demo
 👉 [**View**](https://math-master.lovable.app/)  
 
-## 🎯 Features Overview
+## 🎯 Purpose of the Project
 
-### ✅ 1. **Math Puzzle Game**
+MathMaster aims to make math learning fun and engaging through interactive quizzes and gamified challenges. It helps users practice math at their own pace while tracking their progress.
 
-* Solve logic-based and arithmetic puzzles
-* Level-based unlocking system
-* Fun UI/UX with animations
 
-### ✅ 2. **Interactive Geometry Visualizer**
+## 📌 Features
 
-* Drag & drop geometric shapes
-* Calculate angles, areas, perimeters, volume
-* SVG/Canvas-based interactive tool
+✅ **Math Puzzle Game** – Solve logic and arithmetic puzzles with level progression and animations.
 
-### ✅ 3. **Math Quiz Web App**
+✅ **Geometry Visualizer** – Drag & drop shapes, calculate angles, areas, and volumes interactively.
 
-* Choose difficulty: Easy / Medium / Hard
-* Quiz topics: Fractions, Decimals, Algebra
-* Leaderboard and score tracker
+✅ **Math Quiz App** – Topic-based quizzes with difficulty levels and a score leaderboard.
 
-### ✅ 4. **Combined Dashboard**
+✅ **Combined Dashboard** – Central hub to track progress across all games and quizzes.
 
-* Unified dashboard for all features
-* Progress tracking (quizzes, puzzles)
-* Gamified user experience
-
-### ✅ 5. **User System**
-
-* Login/Register with authentication
-* User profile with avatar, progress, score
-* Settings to update info/preferences
+✅ **User System** – Login, profile management, and personalized progress tracking.
 
 ---
 
