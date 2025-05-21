@@ -149,7 +149,7 @@ Contributions are welcome! Please follow these steps:
 
 5. **Open a pull request**.
 
-## 👨‍💻 Author
+## 👨‍💻 Autho
 
 * **Krushna Mengal**
   GitHub: [@krushna001m](https://github.com/krushna001m)
