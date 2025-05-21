@@ -1,4 +1,4 @@
-# 🧠📚 MathMaster – Interactive Math Learning Web App
+TT# 🧠📚 MathMaster – Interactive Math Learning Web App
 
 
 MathMaster is an interactive web application designed to help users improve their mathematical skills through engaging quizzes and challenges. Built with modern web technologies, it offers a dynamic and responsive user experience.
@@ -149,7 +149,10 @@ Contributions are welcome! Please follow these steps:
 
 5. **Open a pull request**.
 
-## 👨‍💻 Autho
+## 👨‍💻 Author
 
 * **Krushna Mengal**
   GitHub: [@krushna001m](https://github.com/krushna001m)
+* **Ajinkya Shinde**
+  GitHub:
+[ajinkyashinde818](https://GitHub.com/ajinkyashinde818)
